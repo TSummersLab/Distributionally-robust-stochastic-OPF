@@ -99,8 +99,8 @@ The `DRScenarios` is the number of scenarios for distributionally robust optimiz
 ## Useful Resources
 
 Further details on the mathematical formulation and example numerical results can be found in the following papers.
-1. Y. Guo, K. Baker, E. Dall'Anese, Z. Hu and T.H. Summers, "[Data-based distribubtionally robust stochastic optimal power flow, Part I: Methodologies](https://arxiv.org/abs/1804.06388)", available on arXiv.org.
-2. Y. Guo, K. Baker, E. Dall'Anese, Z. Hu and T.H. Summers, "[Data-based distribubtionally robust stochastic optimal power flow, Part II: Case studies](https://arxiv.org/abs/1804.06384)", available on arXiv.org.
+1. Y. Guo, K. Baker, E. Dall'Anese, Z. Hu and T.H. Summers, "[Data-based distribubtionally robust stochastic optimal power flow, Part I: Methodologies](https://arxiv.org/abs/1804.06388)", IEEE Transactions on Power Systems, 2018.
+2. Y. Guo, K. Baker, E. Dall'Anese, Z. Hu and T.H. Summers, "[Data-based distribubtionally robust stochastic optimal power flow, Part II: Case studies](https://arxiv.org/abs/1804.06384)", IEEE Transactions on Power Systems, 2018.
 3. Y. Guo, K. Baker, E. Dall'Anese, Z. Hu and T.H. Summers, "[Stochastic optimal power flow based on data-driven distributionally robust optimization](https://arxiv.org/abs/1706.04267)", 2018 Annual American Control Conference (ACC), Milwaukee, WI, June 2018.
 
 ## Notes
